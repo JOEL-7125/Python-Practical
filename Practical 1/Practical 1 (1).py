@@ -1,3 +1,5 @@
+# Write a program to design and develop a python program to implement various control statement using suitable examples
+
 letter=input("Enter any alphabet:");
 if letter in ("a", "e", "i", "o", "u"):
     print("%s is a vowel" %letter);
