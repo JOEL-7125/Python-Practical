@@ -1,4 +1,5 @@
-#Heading
+# Q : Design a Simple Calculator using if else statement
+
 print("|===[ Calculator ]===|");
 
 #Asking user what operations to do?
