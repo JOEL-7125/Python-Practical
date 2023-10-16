@@ -1,5 +1,5 @@
 # Q : Write a Python program to implement recursion for problems such as Fibonacci series, Factorial, etc.
-# a) Program to find the factorial of numbers using recursion
+# b) Program to find the factorial of numbers using recursion
 
 def recur_fact(n):
     if n==1:
