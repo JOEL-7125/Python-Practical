@@ -1,3 +1,5 @@
+# Q : Find the factorial of 1 to 10
+
 def fact(n):
     p=1;
     while n>=1:
