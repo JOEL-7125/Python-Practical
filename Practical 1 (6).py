@@ -1,3 +1,5 @@
+# Q : Write a python program to implement a list in python for suitable problem. Demonstrate verious operations on it
+
 list1=["red", "green", "blue", "black", "white"];
 list2=[14, 12, 13];
 print("Elements of list1:", list1);
